@@ -6,6 +6,9 @@ public partial class Form1 : Form
     {
         InitializeComponent();
         this.MaximizeBox = false;
+        txtSalarioBase.ReadOnly = true;
+        txtImpuesto15.ReadOnly = true;
+        txtSalarioNeto.ReadOnly = true;
     }
 
     private void btnSalir_Click(object sender, EventArgs e)
