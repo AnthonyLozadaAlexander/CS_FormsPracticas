@@ -36,9 +36,13 @@ public partial class Form1 : Form
         {
             e.Handled = true; // no permite que se escriban letras
         }
+        else if(Char.IsSeparator(e.KeyChar))
+        {
+            e.Handled = true; // no permite que se escriban espacios
+        }
         else
         {
-            e.Handled = false; // permite que se escriban numeros
+            e.Handled = false; // permite que se escriban números
         }
     }
     
