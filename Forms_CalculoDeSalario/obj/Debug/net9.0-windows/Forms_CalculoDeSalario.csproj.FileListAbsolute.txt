@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\bin\Debug\net9.0-windows\Forms_CalculoDeSalario.exe
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\bin\Debug\net9.0-windows\Forms_CalculoDeSalario.deps.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\bin\Debug\net9.0-windows\Forms_CalculoDeSalario.runtimeconfig.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\bin\Debug\net9.0-windows\Forms_CalculoDeSalario.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\bin\Debug\net9.0-windows\Forms_CalculoDeSalario.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.AssemblyInfo.cs
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.sourcelink.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\refint\Forms_CalculoDeSalario.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.genruntimeconfig.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\ref\Forms_CalculoDeSalario.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.Form1.resources
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_CalculoDeSalario\obj\Debug\net9.0-windows\Forms_CalculoDeSalario.csproj.GenerateResource.cache
