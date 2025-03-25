@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\bin\Debug\net9.0-windows\Forms_Calculadora.exe
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\bin\Debug\net9.0-windows\Forms_Calculadora.deps.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\bin\Debug\net9.0-windows\Forms_Calculadora.runtimeconfig.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\bin\Debug\net9.0-windows\Forms_Calculadora.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\bin\Debug\net9.0-windows\Forms_Calculadora.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.AssemblyInfo.cs
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\refint\Forms_Calculadora.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.genruntimeconfig.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\ref\Forms_Calculadora.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_Calculadora\obj\Debug\net9.0-windows\Forms_Calculadora.sourcelink.json
