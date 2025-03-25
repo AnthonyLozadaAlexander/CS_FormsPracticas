@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\bin\Debug\net9.0-windows\Forms_MayorDiametro.exe
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\bin\Debug\net9.0-windows\Forms_MayorDiametro.deps.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\bin\Debug\net9.0-windows\Forms_MayorDiametro.runtimeconfig.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\bin\Debug\net9.0-windows\Forms_MayorDiametro.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\bin\Debug\net9.0-windows\Forms_MayorDiametro.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.AssemblyInfo.cs
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.sourcelink.json
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\refint\Forms_MayorDiametro.dll
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.pdb
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\Forms_MayorDiametro.genruntimeconfig.cache
+C:\Users\user\Desktop\C#Rider\Ejercicios\Forms_MayorDiametro\obj\Debug\net9.0-windows\ref\Forms_MayorDiametro.dll
